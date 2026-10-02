@@ -8,7 +8,7 @@ const AppState = {
   connected: false,
   running: true,
   toolActive: true,
-  soundEnabled: true,
+  soundEnabled: true,  
   prices: {},
   previousPrices: {},
   priceDirections: {},
